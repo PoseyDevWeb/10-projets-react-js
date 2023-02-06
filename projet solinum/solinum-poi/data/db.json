@@ -1,0 +1,143 @@
+{
+  "Poi": [
+    {
+      "nom": "Boutique Comorien",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "wifi",
+      "email": "boutiquecomores@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 1
+    },
+    {
+      "nom": "Boutique Boissy",
+      "adresse": "4 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75308 long : 2.49983",
+      "typePoi": "douche",
+      "email": "boutiquefrance@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 2
+    },
+    {
+      "nom": "Mosqueé Boissy",
+      "adresse": "3 Boulevard de la Gare, 94470 Boissy-Saint-Léger/  lat : 48.75297 long : 2.50593",
+      "typePoi": "douche",
+      "email": "mosqueeboissy@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 3
+    },
+    {
+      "nom": "Mosqueé Gagny",
+      "adresse": "23 Rue Jean Moulin, 93220 Gagny/  lat : 48.87928 long : 2.54245",
+      "typePoi": "douche",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 4
+    },
+    {
+      "nom": "Boutique Gagny",
+      "adresse": "1 Place Foch, 93220 Gagny/  lat : 48.88566 long : 2.53668",
+      "typePoi": "distribution",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 7
+    },
+    {
+      "nom": "Mosqueé Dugny",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "douche",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 8
+    },
+    {
+      "nom": "Boutique Dugny",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "wifi",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 9
+    },
+    {
+      "nom": "Mosqueé Noisy-Le-Sec",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "wifi",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 10
+    },
+    {
+      "nom": "Boutique Noisy-Le-Sec",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "wifi",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 11
+    },
+    {
+      "nom": "Mosqueé Paris",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "wifi",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 12
+    },
+    {
+      "nom": "Boutique Paris",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "douche",
+      "email": "mosqueegagny@gmail.com",
+      "statut": "en ligne",
+      "etat": "validé",
+      "id": 13
+    },
+    {
+      "nom": "jumia food",
+      "email": "azimdine.mz.eali@gmail.com",
+      "adresse": "Dakar/  lat : 14.66927 long : -17.43661",
+      "typePoi": "distribution",
+      "statut": "brouillon",
+      "etat": "",
+      "date": "2023-01-31 14:37:45.404Z",
+      "id": 14
+    },
+    {
+      "nom": "Mze ali",
+      "email": "azimdine.mz.eali@gmail.com",
+      "adresse": "3 Place de la Pinède, 94470 Boissy-Saint-Léger/  lat : 48.75274 long : 2.49984",
+      "typePoi": "douche",
+      "statut": "brouillon",
+      "etat": "",
+      "date": "2023-01-31 15:40:46.573Z",
+      "id": 18
+    },
+    {
+      "nom": "Boutique Creteil",
+      "email": "azimdine.mz.eali@gmail.com",
+      "adresse": "Résidence Clair Soleil, 94000 Créteil/  lat : 48.78657 long : 2.43482",
+      "typePoi": "douche",
+      "statut": "brouillon",
+      "etat": "",
+      "date": "2023-01-31 15:47:56.233Z",
+      "id": 19
+    },
+    {
+      "nom": "Solinum",
+      "email": "azimdine.mz.eali@gmail.com",
+      "adresse": "Rue de Santeuil, 75005 Paris/  lat : 48.83995 long : 2.35442",
+      "typePoi": "douche",
+      "statut": "brouillon",
+      "etat": "",
+      "date": "2023-01-31 15:54:41.101Z",
+      "id": 20
+    }
+  ]
+}
