@@ -1,0 +1,58 @@
+
+.contenu{
+  width: 60%;
+    height: 80vh;
+    background: #028bfc;
+    margin-left: 20%;
+    margin-top: 5vh;
+    border-radius: 20px;
+}
+
+.form-groupe{
+  float: left;
+  width: 40%;
+  list-style: none;
+  margin-left: 5%;
+  margin-top: 5%;
+
+}
+
+.form-control{
+  height: 2rem;
+  font-size: large;
+  border-radius: 0.2rem;
+  border: solid 1px #bbb;
+  font-size: 1rem;
+  color: #646464;
+  width: 100%;
+  margin-left: 5%;
+}
+label{
+  font-size: 1.5rem;
+  color: black
+}
+
+.btn-calculer{
+  height: 2.5rem;
+  width: 20%;
+  margin-left: 0%;
+  background-color: rgb(255, 220, 196);
+  margin-top: 5%;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.resultat{
+  margin-top: 15%;
+}
+
+.valeur{
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.appreciation{
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-top: -5%;
+}
